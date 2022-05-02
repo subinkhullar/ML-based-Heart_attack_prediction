@@ -1,5 +1,5 @@
-## ML-based-Heart_attack_prediction
-# 1.ML based heart attack prediction using Naive Bayes Classifier
+# ML-based-Heart_attack_prediction
+## 1.ML based heart attack prediction using Naive Bayes Classifier
 
 Heart Attack Analysis
 Introduction
@@ -32,7 +32,7 @@ f)	Evaluating the solution
 
 This project is made using Jupyter Notebook
 
-# 2. As a second part of this project
+## 2. As a second part of this project
 a)	Implemented predictive models/classifiers using the following classification approaches:
 •	Logistic Regression
 •	Decision tree
