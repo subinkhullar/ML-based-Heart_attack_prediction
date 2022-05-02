@@ -33,7 +33,7 @@ f)	Evaluating the solution
 This project is made using Jupyter Notebook
 
 # 2. As a second part of this project
-a)	Implementws predictive models/classifiers using the following classification approaches:
+a)	Implemented predictive models/classifiers using the following classification approaches:
 •	Logistic Regression
 •	Decision tree
 •	Ensemble Methods (e.g., Random Forest)
