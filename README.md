@@ -36,7 +36,7 @@ This project is made using Jupyter Notebook
 a)	Implementws predictive models/classifiers using the following classification approaches:
 •	Logistic Regression
 •	Decision tree
-•	Ensemble Methods (any one of your choice)
+•	Ensemble Methods (e.g., Random Forest)
 •	K-Nearest Neighbour
 
 b)	Compared the performances of each model/classifier considering the given dataset using different evaluation measures such as Precision, Recall, F1-Score, AUC-ROC. Showed the comparison chart in Python notebook
